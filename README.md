@@ -6,9 +6,9 @@
 
 This creates a project folder in the root folder pypi-template. Enter the project name when asked in terminal.
 
-If you want to add more files/folders   to the project, add its path in list_of_files in template.py.ss
+If you want to add more files/folders   to the project, add its path in list_of_files in template.py.
 
-To run 
+Run *python template.py* and *enter the name of the project*.
 
 ```
 $ python template.py
